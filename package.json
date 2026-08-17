@@ -1,7 +1,7 @@
 {
   "name": "dsh-plugin-workspace-open",
-  "description": "Session-header + sidebar actions: open the current workspace directory in the OS file manager (host.openPath / Invoke-Item), with zh/en i18n",
-  "version": "0.2.0",
+  "description": "Open the current workspace in the OS file manager + right-side workspace file tree panel, with zh/en i18n",
+  "version": "0.3.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
